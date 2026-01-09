@@ -57,7 +57,7 @@ Investigation chain: Challenge image → C40 Cities X post → UNFCCC official e
 
 **First name of first audience questioner:** [Redacted - Challenge completed successfully]
 
-![Challenge completion proof](../images/bellingcat-climate-question/challenge-solved.png)
+![Challenge completion proof](../images/bellingcat-climate-question/Screenshot%202026-01-09%20at%2010.40.44%20AM.png)
 
 ## Lessons Learned
 
