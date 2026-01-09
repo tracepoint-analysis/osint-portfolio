@@ -6,7 +6,7 @@
 
 ## Challenge Description
 
-Audio file provided with voices speaking in Russian. Task was to identify the speakers and locate the source video.
+Audio file provided with voices speaking in a language I do not speak. Task was to identify the speakers and locate the source video.
 
 ## Methodology
 
