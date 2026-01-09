@@ -11,6 +11,7 @@ This portfolio showcases technical investigation skills, combining software deve
 ### Bellingcat Challenges
 
 - [Lost in Translation](writeups/bellingcat-lost-in-translation.md) - Audio OSINT: Speaker identification using voice analysis and AI-assisted transcription
+- [Climate Question](writeups/bellingcat-climate-question.md) - Image and video OSINT: Identifying conference attendee through reverse image search and video analysis
 
 <!--
 Add new challenges here as you complete them:
