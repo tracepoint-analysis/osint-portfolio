@@ -1,0 +1,20 @@
+# OSINT Portfolio .gitignore
+
+# Don't commit works in progress or unredacted notes
+*-DRAFT.md
+*-unredacted.*
+/scratch/
+/private-notes/
+
+# Don't commit sensitive image metadata
+*.DS_Store
+Thumbs.db
+
+# Keep unprocessed/original images private
+/images/originals/
+/images/raw/
+
+# System files
+.obsidian/
+*.swp
+*~
